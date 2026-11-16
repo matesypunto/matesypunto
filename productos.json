@@ -1,0 +1,230 @@
+{
+  "promoDescuento": 2000,
+  "masVendidos": [
+    "Torpedo premium",
+    "Torpedo cincelado",
+    "Imperial premium"
+  ],
+  "proximamente": [
+    "Canastas",
+    "Yerberas"
+  ],
+  "productos": [
+    {
+      "nombre": "Imperial premium",
+      "categoria": "Mates",
+      "sub": "Imperiales",
+      "precio": 43000,
+      "stock": "si",
+      "mostrar": true,
+      "detalle": "",
+      "fotos": [
+        "fotos/imperial-premium.webp"
+      ]
+    },
+    {
+      "nombre": "Torpedo base canasta",
+      "categoria": "Mates",
+      "sub": "Torpedos",
+      "precio": 43000,
+      "stock": "si",
+      "mostrar": true,
+      "detalle": "",
+      "fotos": [
+        "fotos/torpedo-base-canasta.webp"
+      ]
+    },
+    {
+      "nombre": "Camionero premium",
+      "categoria": "Mates",
+      "sub": "Camioneros",
+      "precio": 42000,
+      "stock": "si",
+      "mostrar": true,
+      "detalle": "",
+      "fotos": [
+        "fotos/camionero-premium.webp"
+      ]
+    },
+    {
+      "nombre": "Imperial avejentado",
+      "categoria": "Mates",
+      "sub": "Imperiales",
+      "precio": 42000,
+      "stock": "si",
+      "mostrar": true,
+      "detalle": "",
+      "fotos": [
+        "fotos/imperial-avejentado.webp"
+      ]
+    },
+    {
+      "nombre": "Imperial animal print C/B",
+      "categoria": "Mates",
+      "sub": "Imperiales",
+      "precio": 43000,
+      "stock": "si",
+      "mostrar": true,
+      "detalle": "",
+      "fotos": [
+        "fotos/imperial-animal-print-c-b.webp"
+      ]
+    },
+    {
+      "nombre": "Imperial animal print",
+      "categoria": "Mates",
+      "sub": "Imperiales",
+      "precio": 43000,
+      "stock": "si",
+      "mostrar": true,
+      "detalle": "",
+      "fotos": [
+        "fotos/imperial-animal-print.webp"
+      ]
+    },
+    {
+      "nombre": "Camionero de algarrobo",
+      "categoria": "Mates",
+      "sub": "Camioneros",
+      "precio": 26000,
+      "stock": "si",
+      "mostrar": true,
+      "detalle": "",
+      "fotos": [
+        "fotos/camionero-de-algarrobo.webp"
+      ]
+    },
+    {
+      "nombre": "Camionero de madera laqueado",
+      "categoria": "Mates",
+      "sub": "Camioneros",
+      "precio": 21000,
+      "stock": "si",
+      "mostrar": true,
+      "detalle": "",
+      "fotos": [
+        "fotos/camionero-de-madera-laqueado.webp"
+      ]
+    },
+    {
+      "nombre": "Imperial de algarrobo",
+      "categoria": "Mates",
+      "sub": "Imperiales",
+      "precio": 27000,
+      "stock": "si",
+      "mostrar": true,
+      "detalle": "",
+      "fotos": [
+        "fotos/imperial-de-algarrobo.webp"
+      ]
+    },
+    {
+      "nombre": "Torpedo premium",
+      "categoria": "Mates",
+      "sub": "Torpedos",
+      "precio": 43000,
+      "stock": "consultar",
+      "mostrar": true,
+      "detalle": "",
+      "fotos": [
+        "fotos/torpedo-premium.webp"
+      ]
+    },
+    {
+      "nombre": "Imperial rey",
+      "categoria": "Mates",
+      "sub": "Imperiales",
+      "precio": 42000,
+      "stock": "si",
+      "mostrar": true,
+      "detalle": "",
+      "fotos": [
+        "fotos/imperial-rey.webp"
+      ]
+    },
+    {
+      "nombre": "Torpedo cincelado",
+      "categoria": "Mates",
+      "sub": "Torpedos",
+      "precio": 39000,
+      "stock": "si",
+      "mostrar": true,
+      "detalle": "",
+      "fotos": [
+        "fotos/torpedo-cincelado.webp"
+      ]
+    },
+    {
+      "nombre": "Torpedo avejentado joyero",
+      "categoria": "Mates",
+      "sub": "Torpedos",
+      "precio": 43000,
+      "stock": "si",
+      "mostrar": true,
+      "detalle": "",
+      "fotos": [
+        "fotos/torpedo-avejentado-joyero.webp"
+      ]
+    },
+    {
+      "nombre": "Bombillón rey",
+      "categoria": "Bombillones",
+      "sub": "",
+      "precio": 22000,
+      "stock": "si",
+      "mostrar": true,
+      "detalle": "",
+      "fotos": [
+        "fotos/bombillon-rey.webp"
+      ]
+    },
+    {
+      "nombre": "Bombillón pico de loro",
+      "categoria": "Bombillones",
+      "sub": "",
+      "precio": 22000,
+      "stock": "si",
+      "mostrar": true,
+      "detalle": "",
+      "fotos": [
+        "fotos/bombillon-pico-de-loro.webp"
+      ]
+    },
+    {
+      "nombre": "Bombillón trenzado",
+      "categoria": "Bombillones",
+      "sub": "",
+      "precio": 22000,
+      "stock": "si",
+      "mostrar": true,
+      "detalle": "",
+      "fotos": [
+        "fotos/bombillon-trenzado.webp"
+      ]
+    },
+    {
+      "nombre": "Bombillón recto",
+      "categoria": "Bombillones",
+      "sub": "",
+      "precio": 22000,
+      "stock": "si",
+      "mostrar": true,
+      "detalle": "",
+      "fotos": [
+        "fotos/bombillon-recto.webp"
+      ]
+    },
+    {
+      "nombre": "Bombilla pico de loro",
+      "categoria": "Bombillas",
+      "sub": "",
+      "precio": 6000,
+      "stock": "si",
+      "mostrar": true,
+      "detalle": "",
+      "fotos": [
+        "fotos/bombilla-pico-de-loro.webp"
+      ]
+    }
+  ]
+}
