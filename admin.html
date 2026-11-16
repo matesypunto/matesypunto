@@ -101,7 +101,7 @@
   <div class="contenedor barra">
     <div class="marca">mates y punto<span>.</span> · panel</div>
     <div class="acc" id="acciones" hidden>
-      <a class="btn sec chico" href="./" target="_blank" rel="noopener">Ver página</a>
+      <a class="btn sec chico" href="https://matesypunto.github.io/matesypunto/" target="_blank" rel="noopener">Ver página</a>
       <button class="btn sec chico" id="salir" type="button">Salir</button>
       <button class="btn" id="guardar" type="button">Guardar cambios</button>
     </div>
@@ -165,7 +165,7 @@
 
 <script>
   /* ===== CONFIGURACIÓN ===== */
-  const OWNER = "joakocabrera";
+  const OWNER = "matesypunto";
   const REPO = "matesypunto";
   const RAMA = "main";
   const ARCHIVO = "productos.json";
@@ -267,7 +267,8 @@
   $("proximamente").addEventListener("input", (e) => { datos.proximamente = e.target.value.split(",").map((s) => s.trim()).filter(Boolean); marcar(); });
 
   /* ===== Lista de productos ===== */
-  const urlFoto = (ruta) => fotosNuevas[ruta] ? fotosNuevas[ruta].url : ruta;
+  // Las fotos se muestran directo desde GitHub: funcionan aunque abras el panel desde otro lado
+  const urlFoto = (ruta) => fotosNuevas[ruta] ? fotosNuevas[ruta].url : (/^(https?:|data:)/.test(ruta) ? ruta : `https://raw.githubusercontent.com/${OWNER}/${REPO}/${RAMA}/${ruta}`);
   function actualizarSugerencias() {
     const cats = new Set(["Mates", "Bombillones", "Bombillas", ...datos.productos.map((p) => p.categoria).filter(Boolean), ...datos.proximamente]);
     $("dl-categorias").innerHTML = [...cats].map((c) => `<option value="${esc(c)}">`).join("");
