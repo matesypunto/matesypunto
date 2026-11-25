@@ -3,13 +3,75 @@
   "masVendidos": [
     "Torpedo premium",
     "Torpedo cincelado",
-    "Imperial premium"
+    "Imperial premium",
+    "Torpedo virolon",
+    "Torpedo base canasta"
   ],
   "proximamente": [
     "Canastas",
     "Yerberas"
   ],
   "productos": [
+    {
+      "nombre": "Imperial clasico",
+      "categoria": "Mates",
+      "sub": "Imperiales",
+      "precio": 32000,
+      "stock": "consultar",
+      "mostrar": true,
+      "detalle": "",
+      "fotos": [
+        "fotos/producto-mwwkalgg2jt.webp"
+      ]
+    },
+    {
+      "nombre": "Torpedo clasico",
+      "categoria": "Mates",
+      "sub": "Torpedos",
+      "precio": 34000,
+      "stock": "consultar",
+      "mostrar": true,
+      "detalle": "",
+      "fotos": [
+        "fotos/producto-mwwk9q5rsbn.webp"
+      ]
+    },
+    {
+      "nombre": "Imperial de madera pulido",
+      "categoria": "Mates",
+      "sub": "Imperiales",
+      "precio": 28000,
+      "stock": "consultar",
+      "mostrar": true,
+      "detalle": "",
+      "fotos": [
+        "fotos/producto-mwwk8nsi400.webp"
+      ]
+    },
+    {
+      "nombre": "Criollo",
+      "categoria": "Mates",
+      "sub": "Camioneros",
+      "precio": 24000,
+      "stock": "consultar",
+      "mostrar": true,
+      "detalle": "",
+      "fotos": [
+        "fotos/producto-mwwk6ozj2uy.webp"
+      ]
+    },
+    {
+      "nombre": "Imperial base canasta",
+      "categoria": "Mates",
+      "sub": "Imperiales",
+      "precio": 43000,
+      "stock": "consultar",
+      "mostrar": true,
+      "detalle": "",
+      "fotos": [
+        "fotos/producto-mwwk4t7ka9h.webp"
+      ]
+    },
     {
       "nombre": "Yerbera negra",
       "categoria": "Yerberas",
@@ -74,7 +136,7 @@
       "nombre": "Camionero premium",
       "categoria": "Mates",
       "sub": "Camioneros",
-      "precio": 42000,
+      "precio": 45000,
       "stock": "no",
       "mostrar": true,
       "detalle": "",
@@ -135,7 +197,7 @@
       "categoria": "Mates",
       "sub": "Camioneros",
       "precio": 25000,
-      "stock": "no",
+      "stock": "consultar",
       "mostrar": true,
       "detalle": "",
       "fotos": [
@@ -158,8 +220,8 @@
       "nombre": "Torpedo premium",
       "categoria": "Mates",
       "sub": "Torpedos",
-      "precio": 43000,
-      "stock": "si",
+      "precio": 45000,
+      "stock": "consultar",
       "mostrar": true,
       "detalle": "(Color negro o borravino)",
       "fotos": [
@@ -183,7 +245,7 @@
       "categoria": "Mates",
       "sub": "Torpedos",
       "precio": 40000,
-      "stock": "no",
+      "stock": "consultar",
       "mostrar": true,
       "detalle": "",
       "fotos": [
