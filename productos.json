@@ -9,11 +9,81 @@
   ],
   "proximamente": [
     "Canastas",
-    "Yerberas",
-    "Criollo",
-    "Ranchero"
+    "Yerberas"
   ],
   "productos": [
+    {
+      "nombre": "Termo negro",
+      "categoria": "Termos",
+      "sub": "",
+      "precio": 28000,
+      "stock": "consultar",
+      "mostrar": true,
+      "detalle": "",
+      "fotos": [
+        "fotos/producto-mwwkmw2p1yx.webp"
+      ]
+    },
+    {
+      "nombre": "Termo cromado",
+      "categoria": "Termos",
+      "sub": "",
+      "precio": 25000,
+      "stock": "consultar",
+      "mostrar": true,
+      "detalle": "",
+      "fotos": [
+        "fotos/producto-mwwkmcj1l8x.webp"
+      ]
+    },
+    {
+      "nombre": "Ranchero Blanco",
+      "categoria": "Mates",
+      "sub": "Ranchero",
+      "precio": 30000,
+      "stock": "consultar",
+      "mostrar": true,
+      "detalle": "",
+      "fotos": [
+        "fotos/producto-mwwkhh5c6yo.webp"
+      ]
+    },
+    {
+      "nombre": "Ranchero rosa",
+      "categoria": "Mates",
+      "sub": "Ranchero",
+      "precio": 30000,
+      "stock": "consultar",
+      "mostrar": true,
+      "detalle": "",
+      "fotos": [
+        "fotos/producto-mwwkh2ottgk.webp"
+      ]
+    },
+    {
+      "nombre": "Criollo con virola",
+      "categoria": "Mates",
+      "sub": "Criollo",
+      "precio": 28000,
+      "stock": "consultar",
+      "mostrar": true,
+      "detalle": "",
+      "fotos": [
+        "fotos/producto-mwwkfx7f3hy.webp"
+      ]
+    },
+    {
+      "nombre": "Coquito",
+      "categoria": "Mates",
+      "sub": "Criollo",
+      "precio": 24000,
+      "stock": "consultar",
+      "mostrar": true,
+      "detalle": "",
+      "fotos": [
+        "fotos/producto-mwwkf512b28.webp"
+      ]
+    },
     {
       "nombre": "Imperial clasico",
       "categoria": "Mates",
@@ -53,7 +123,7 @@
     {
       "nombre": "Criollo",
       "categoria": "Mates",
-      "sub": "Camioneros",
+      "sub": "Criollo",
       "precio": 24000,
       "stock": "consultar",
       "mostrar": true,
