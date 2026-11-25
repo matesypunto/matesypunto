@@ -11,6 +11,42 @@
   ],
   "productos": [
     {
+      "nombre": "Yerbera negra",
+      "categoria": "Yerberas",
+      "sub": "",
+      "precio": 12000,
+      "stock": "si",
+      "mostrar": true,
+      "detalle": "",
+      "fotos": [
+        "fotos/producto-mww9jgjt95c.webp"
+      ]
+    },
+    {
+      "nombre": "Yerbera marron",
+      "categoria": "Yerberas",
+      "sub": "",
+      "precio": 12000,
+      "stock": "si",
+      "mostrar": true,
+      "detalle": "",
+      "fotos": [
+        "fotos/producto-mww9htkw4r4.webp"
+      ]
+    },
+    {
+      "nombre": "Torpedo virolon",
+      "categoria": "Mates",
+      "sub": "Torpedos",
+      "precio": 68000,
+      "stock": "si",
+      "mostrar": true,
+      "detalle": "",
+      "fotos": [
+        "fotos/producto-mww9docsxz9.webp"
+      ]
+    },
+    {
       "nombre": "Imperial premium",
       "categoria": "Mates",
       "sub": "Imperiales",
@@ -39,7 +75,7 @@
       "categoria": "Mates",
       "sub": "Camioneros",
       "precio": 42000,
-      "stock": "si",
+      "stock": "no",
       "mostrar": true,
       "detalle": "",
       "fotos": [
@@ -86,7 +122,7 @@
       "nombre": "Camionero de algarrobo",
       "categoria": "Mates",
       "sub": "Camioneros",
-      "precio": 26000,
+      "precio": 28000,
       "stock": "si",
       "mostrar": true,
       "detalle": "",
@@ -98,8 +134,8 @@
       "nombre": "Camionero de madera laqueado",
       "categoria": "Mates",
       "sub": "Camioneros",
-      "precio": 21000,
-      "stock": "si",
+      "precio": 25000,
+      "stock": "no",
       "mostrar": true,
       "detalle": "",
       "fotos": [
@@ -110,7 +146,7 @@
       "nombre": "Imperial de algarrobo",
       "categoria": "Mates",
       "sub": "Imperiales",
-      "precio": 27000,
+      "precio": 30000,
       "stock": "si",
       "mostrar": true,
       "detalle": "",
@@ -123,7 +159,7 @@
       "categoria": "Mates",
       "sub": "Torpedos",
       "precio": 43000,
-      "stock": "consultar",
+      "stock": "si",
       "mostrar": true,
       "detalle": "(Color negro o borravino)",
       "fotos": [
@@ -146,8 +182,8 @@
       "nombre": "Torpedo cincelado",
       "categoria": "Mates",
       "sub": "Torpedos",
-      "precio": 39000,
-      "stock": "si",
+      "precio": 40000,
+      "stock": "no",
       "mostrar": true,
       "detalle": "",
       "fotos": [
@@ -170,8 +206,8 @@
       "nombre": "Bombillón rey",
       "categoria": "Bombillones",
       "sub": "",
-      "precio": 22000,
-      "stock": "si",
+      "precio": 25000,
+      "stock": "no",
       "mostrar": true,
       "detalle": "",
       "fotos": [
@@ -182,8 +218,8 @@
       "nombre": "Bombillón pico de loro",
       "categoria": "Bombillones",
       "sub": "",
-      "precio": 22000,
-      "stock": "si",
+      "precio": 25000,
+      "stock": "no",
       "mostrar": true,
       "detalle": "",
       "fotos": [
@@ -194,7 +230,7 @@
       "nombre": "Bombillón trenzado",
       "categoria": "Bombillones",
       "sub": "",
-      "precio": 22000,
+      "precio": 25000,
       "stock": "si",
       "mostrar": true,
       "detalle": "",
@@ -206,7 +242,7 @@
       "nombre": "Bombillón recto",
       "categoria": "Bombillones",
       "sub": "",
-      "precio": 22000,
+      "precio": 25000,
       "stock": "si",
       "mostrar": true,
       "detalle": "",
