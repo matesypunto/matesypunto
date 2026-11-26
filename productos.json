@@ -13,6 +13,18 @@
   ],
   "productos": [
     {
+      "nombre": "Combo Navideño",
+      "categoria": "Combos",
+      "sub": "",
+      "precio": 40000,
+      "stock": "consultar",
+      "mostrar": true,
+      "detalle": "Grabado Clásico Mate\nGrabado Clásico Caja\nCamionero Laqueado Virola Acero\nBombilla Chata Acero",
+      "fotos": [
+        "fotos/producto-mwxpimrpq9x.webp"
+      ]
+    },
+    {
       "nombre": "Termo negro",
       "categoria": "Termos",
       "sub": "",
